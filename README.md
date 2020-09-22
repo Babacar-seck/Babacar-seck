@@ -1,26 +1,41 @@
 Hi there, I'm Babacar Seck 👋
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" alt="Babacar Seck | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+### Connect with me:
+[<img align="left" alt="Babacar Seck | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][website]
 [<img align="left" alt="Babacar Seck | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Babacar Seck | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
+<br />
+
 Hi, I'm Seck Babacar, a passionate web developper From belgium living in Paris
+<br />
 🌱 I’m currently learning in Java, Angular🤣
+<br />
 🥅 2020 Goals: Contribute more to Open Source projects
+<br />
 ⚡ Fun fact: I love to play Basket-Ball and playing game
 Spotify Playing 🎧
 codeSTACKr Spotify Playing
 
+<br />
+<br />
+<br />
 
 
 
+### Languages and Tools:
 
-Languages and Tools:
-[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png][Javascript]
-[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png][html]
-[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png][php]
-[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png][bootstrap]
+<img align="left" alt="Babacar Seck" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
+<img align="left" alt="Babacar Seck | Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+
+<img align="left" alt="Babacar Seck | Discord" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="Babacar Seck | Discord" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<br />
+<br />
+
+[website]:babacarseckdevweb@gmail.com
+[linkedin]: https://www.linkedin.com/in/babacar-seck/
 
 
 
