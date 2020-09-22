@@ -13,9 +13,7 @@ Hi, I'm Seck Babacar, a passionate web developper From belgium living in Paris
 <br />
 🥅 2020 Goals: Contribute more to Open Source projects
 <br />
-⚡ Fun fact: I love to play Basket-Ball and playing game
-Spotify Playing 🎧
-codeSTACKr Spotify Playing
+⚡ Fun fact: I love to play Basket-Ball ...
 
 <br />
 <br />
