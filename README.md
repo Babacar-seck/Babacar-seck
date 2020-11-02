@@ -3,19 +3,37 @@ Hi there, I'm Babacar Seck 👋
 ### Connect with me:
 [<img align="left" alt="Babacar Seck | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][website]
 [<img align="left" alt="Babacar Seck | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Babacar Seck | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="Babacar Seck | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
 
 <br />
 
 Hi, I'm Seck Babacar, a passionate web developper From belgium living in Paris
 <br />
-🌱 I’m currently learning in Java, Angular🤣
+🌱 I'm currently studying at Doranco in Bagnolet near Paris and I'm looking for an internship in application design and development.
 <br />
-🥅 2020 Goals: Contribute more to Open Source projects
+🥅 2021 Goals: Contribute more to Open Source projects
 <br />
 ⚡ Fun fact: I love to play Basket-Ball ...
 
 <br />
+
+### Professional skills:
+
+* Versioning with Git 
+* Agile methods (Scrum and Kanban), 
+* Formalization and modeling with RUP and UML methods
+* Design Patterns, Application Architectures and SOLID Principles
+* Windows Presentation Foundation (WPF) | C Sharp / C# .Net	
+* Data persistence : ADO .Net | LINQ - SQL Server	
+* Developing SOAP and REST Web Services in .NET
+* Develop components of the GUI presentation layer	
+* Java and Middleware	
+* Data persistence with Java-JPA-Hibernate	
+* Developing Web Services in Java	
+* Application security with Java	
+* Creating a Java application - Project	
+* Android Java Development - Refinement
+
 <br />
 <br />
 
