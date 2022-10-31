@@ -7,11 +7,11 @@ Hi there, I'm Babacar Seck 👋
 
 <br />
 
-Hi, I'm Seck Babacar, a passionate web developper From belgium living in Paris
+Hi, I'm Seck Babacar, a passionate web developper C# From belgium living in Paris
 <br />
-🌱 I'm currently studying at Doranco in Bagnolet near Paris and I'm looking for an internship in application design and development.
+🌱 I am currently employed at SQLI Digital Experience.
 <br />
-🥅 2021 Goals: Contribute more to Open Source projects
+🥅 2023 Goals: Contribute more to Open Source projects
 <br />
 ⚡ Fun fact: I love to play Basket-Ball ...
 
@@ -27,12 +27,12 @@ Hi, I'm Seck Babacar, a passionate web developper From belgium living in Paris
 * Data persistence : ADO .Net | LINQ - SQL Server	
 * Developing SOAP and REST Web Services in .NET
 * Develop components of the GUI presentation layer	
-* Java and Middleware	
-* Data persistence with Java-JPA-Hibernate	
-* Developing Web Services in Java	
+* Domain Driven Domain (Clean Architecture)
+* Data persistence with EF CORe 	
+* Developing Web Services in C#	
 * Application security with Java	
 * Creating a Java application - Project	
-* Android Java Development - Refinement
+* Android And IOS Xamarin Forms Or MAUI Development - Refinement
 
 <br />
 <br />
