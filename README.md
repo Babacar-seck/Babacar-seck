@@ -4,6 +4,9 @@ Hi there, I'm Babacar Seck 👋
 [<img align="left" alt="Babacar Seck | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][website]
 [<img align="left" alt="Babacar Seck | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Babacar Seck | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+
+
+<br />
 <svg width="93" height="32" viewBox="0 0 93 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M88 0H31V32H88C90.7614 32 93 29.7614 93 27V5C93 2.23858 90.7614 0 88 0Z" fill="#0F1418"/>
 <path d="M31 0H5C2.23858 0 0 2.23858 0 5V27C0 29.7614 2.23858 32 5 32H31V0Z" fill="#0078D7"/>
@@ -17,9 +20,6 @@ Hi there, I'm Babacar Seck 👋
 </linearGradient>
 </defs>
 </svg>
-
-<br />
-
 Hi, I'm Seck Babacar, a passionate web developper C# From belgium living in Paris
 <br />
 🌱 I am currently employed at SQLI Digital Experience.
